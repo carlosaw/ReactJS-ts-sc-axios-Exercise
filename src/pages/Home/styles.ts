@@ -43,4 +43,8 @@ export const Button = styled.div`
         color: #145c8c;
         /* border: 2px solid #145c8c; */
     }
+
+    &:active {
+    color: red;
+    }
 `;
